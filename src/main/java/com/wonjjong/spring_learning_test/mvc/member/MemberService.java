@@ -1,6 +1,6 @@
-package mvc.member;
+package com.wonjjong.spring_learning_test.mvc.member;
 
-import domain.Member;
+import com.wonjjong.spring_learning_test.domain.Member;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

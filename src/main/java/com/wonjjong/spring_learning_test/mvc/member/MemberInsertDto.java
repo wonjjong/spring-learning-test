@@ -1,9 +1,11 @@
-package mvc.member;
+package com.wonjjong.spring_learning_test.mvc.member;
 
-import domain.Member;
+import com.wonjjong.spring_learning_test.domain.Member;
 import lombok.Getter;
+import lombok.Setter;
 
 @Getter
+@Setter
 public class MemberInsertDto {
     private String name;
 

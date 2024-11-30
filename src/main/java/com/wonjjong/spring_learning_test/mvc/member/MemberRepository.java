@@ -1,6 +1,6 @@
-package mvc.member;
+package com.wonjjong.spring_learning_test.mvc.member;
 
-import domain.Member;
+import com.wonjjong.spring_learning_test.domain.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

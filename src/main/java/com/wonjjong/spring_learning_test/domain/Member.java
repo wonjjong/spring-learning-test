@@ -1,4 +1,4 @@
-package domain;
+package com.wonjjong.spring_learning_test.domain;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
